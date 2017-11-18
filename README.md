@@ -45,7 +45,7 @@ We will then also use linear regression to determine the correlation of a state'
 * Complete linear regression (Joe)
 
 #### Milestone 4: Dec 12 
-* Complete writeup and poster
+* Complete writeup and poster (all)
 
 
 
