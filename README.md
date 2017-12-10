@@ -43,6 +43,8 @@ We will then also use linear regression to determine the correlation of a state'
 *  Complete clustering (Jess)
 #### Milestone 3: Dec 8
 * Complete linear regression (Joe)
+* Complete edit of kmeans clustering (Jess + Monica)
+* Complete lda on cluster (Jess + Monica)
 
 #### Milestone 4: Dec 12 
 * Complete writeup and poster (all)
